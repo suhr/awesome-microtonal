@@ -4,10 +4,22 @@ A curated list of useful resources for writing microtonal music.
 
 ## Tools
 
+- [REAPER](https://www.reaper.fm/) — a DAW that supports pianoroll coloring different from the standard one
 - [Med](https://github.com/suhr/med) — the [ed](https://en.wikipedia.org/wiki/Ed_(text_editor)) of music trackers
 - [31key](https://github.com/suhr/31key) — a microtonal midi keyboard
 - [Scale Workshop](http://sevish.com/scaleworkshop/) — a web app for building microtonal scales
 - [Online Terpstra Keyboard](http://terpstrakeyboard.com/web-app/keys.htm)
+- [Scala](http://www.huygens-fokker.org/scala/)
+
+## Synths
+
+There's [a list](http://xenharmonic.wikispaces.com/List+of+Microtonal+Software+Plugins) on Xenharmonic Wiki.
+
+- [ZynAddSubFX](http://zynaddsubfx.sourceforge.net/)
+- [u-he](http://www.u-he.com/cms/) synths: ACE, Bazille, Diva, Zebra...
+- Modartt [Pianoteq](https://www.pianoteq.com/)
+- [Amsynth](https://amsynth.github.io/)
+- [Xen-Arts](http://xen-arts.net/vsti/) synths: XenFont2, IVOR2, Xen-FMTS 2, One-SF2
 
 ## Resources
 
