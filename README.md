@@ -20,6 +20,7 @@ There's [a list](http://xenharmonic.wikispaces.com/List+of+Microtonal+Software+P
 - Modartt [Pianoteq](https://www.pianoteq.com/)
 - [Amsynth](https://amsynth.github.io/)
 - [Xen-Arts](http://xen-arts.net/vsti/) synths: XenFont2, IVOR2, Xen-FMTS 2, One-SF2
+- [xephys](https://github.com/suhr/xephys)
 
 ## Resources
 
