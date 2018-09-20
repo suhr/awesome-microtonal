@@ -10,6 +10,7 @@ A curated list of useful resources for writing microtonal music.
 - [Scale Workshop](http://sevish.com/scaleworkshop/) — a web app for building microtonal scales
 - [Online Terpstra Keyboard](http://terpstrakeyboard.com/web-app/keys.htm)
 - [Scala](http://www.huygens-fokker.org/scala/)
+- [31-TET plugin](https://github.com/euwbah/musescore-31-tet-plugin) for [MuseScore](https://musescore.org/)
 
 ## Synths
 
@@ -24,7 +25,7 @@ There's [a list](http://xenharmonic.wikispaces.com/List+of+Microtonal+Software+P
 
 ## Resources
 
-- [Xenharmonic Wiki](http://xenharmonic.wikispaces.com/)
+- [Xenharmonic Wiki](https://en.xen.wiki/)
 - http://31et.com/ — a site about 31edo
 - [Sevish blog](http://sevish.com/blog/)
 - [Gary Garrett blog](http://www.garygarrett.me/)
