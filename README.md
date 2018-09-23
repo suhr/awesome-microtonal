@@ -11,6 +11,7 @@ A curated list of useful resources for writing microtonal music.
 - [Online Terpstra Keyboard](http://terpstrakeyboard.com/web-app/keys.htm)
 - [Scala](http://www.huygens-fokker.org/scala/)
 - [31-TET plugin](https://github.com/euwbah/musescore-31-tet-plugin) for [MuseScore](https://musescore.org/)
+- [The Monochord](http://the-monochord.com/)
 
 ## Synths
 
@@ -20,7 +21,6 @@ There's [a list](http://xenharmonic.wikispaces.com/List+of+Microtonal+Software+P
 - [u-he](http://www.u-he.com/cms/) synths: ACE, Bazille, Diva, Zebra...
 - Modartt [Pianoteq](https://www.pianoteq.com/)
 - [Amsynth](https://amsynth.github.io/)
-- [Xen-Arts](http://xen-arts.net/vsti/) synths: XenFont2, IVOR2, Xen-FMTS 2, One-SF2
 - [xephys](https://github.com/suhr/xephys)
 
 ## Resources
