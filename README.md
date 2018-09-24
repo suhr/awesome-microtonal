@@ -15,7 +15,7 @@ A curated list of useful resources for writing microtonal music.
 
 ## Synths
 
-There's [a list](http://xenharmonic.wikispaces.com/List+of+Microtonal+Software+Plugins) on Xenharmonic Wiki.
+There's [a list](https://en.xen.wiki/w/List_of_Microtonal_Software_Plugins) on the Xenharmonic Wiki.
 
 - [ZynAddSubFX](http://zynaddsubfx.sourceforge.net/)
 - [u-he](http://www.u-he.com/cms/) synths: ACE, Bazille, Diva, Zebra...
