@@ -10,7 +10,7 @@ A curated list of useful resources for writing microtonal music.
 - [Scale Workshop](http://sevish.com/scaleworkshop/) — a web app for building microtonal scales
 - [Online Terpstra Keyboard](http://terpstrakeyboard.com/web-app/keys.htm)
 - [Scala](http://www.huygens-fokker.org/scala/)
-- [31-TET plugin](https://github.com/euwbah/musescore-31-tet-plugin) for [MuseScore](https://musescore.org/)
+- [n-EDO plugin](https://github.com/euwbah/musescore-31-tet-plugin) for [MuseScore](https://musescore.org/)
 - [The Monochord](http://the-monochord.com/)
 - [WereSoCool](https://github.com/xasopheno/WereSoCool) — a language for composing microtonal music geometrically
 
