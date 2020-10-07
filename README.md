@@ -12,7 +12,7 @@ A curated list of useful resources for writing microtonal music.
 - [Scala](http://www.huygens-fokker.org/scala/)
 - [31-TET plugin](https://github.com/euwbah/musescore-31-tet-plugin) for [MuseScore](https://musescore.org/)
 - [The Monochord](http://the-monochord.com/)
-- [WereSoCool](https://www.weresocool.org/) — a language for composing microtonal music geometrically
+- [WereSoCool](https://github.com/xasopheno/WereSoCool) — a language for composing microtonal music geometrically
 
 ## Synths
 
