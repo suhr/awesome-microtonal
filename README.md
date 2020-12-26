@@ -4,6 +4,7 @@ A curated list of useful resources for writing microtonal music.
 
 ## Tools
 
+- [Helio Workstation](https://helio.fm) — a distraction-free music sequencer with support of microtonality
 - [REAPER](https://www.reaper.fm/) — a DAW that supports pianoroll coloring different from the standard one
 - [Scale Workshop](http://sevish.com/scaleworkshop/) — a web app for building microtonal scales
 - [Scala](http://www.huygens-fokker.org/scala/)
